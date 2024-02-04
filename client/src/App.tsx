@@ -9,7 +9,7 @@ function App() {
 				<b>
 					<p>
 						Out of the <span className="App-link"> mouth</span>,
-						<br /> speaketh the abundance of the{" "}
+						<br /> flows the abundance of the{" "}
 						<span className="App-link">heart</span>.
 					</p>
 				</b>
