@@ -3,6 +3,9 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
+	// Increase counter each time this happens
+	console.log("Number of times I failed", 2);
+
 	return (
 		<div className="App">
 			<header className="App-header">
